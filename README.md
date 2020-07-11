@@ -16,3 +16,8 @@
  - yarn
  - yarn dev
  
+## Rotas
+- `GET /users`
+- `POST /users`
+- `POST /users/:userId/likes`
+- `POST /users/:userId/dislikes`
